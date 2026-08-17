@@ -1,0 +1,43 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# IDE and generated project files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.vsconfig
+
+# Local/private capture data
+.env
+.env.*
+*.csv
+*.jsonl
+Received_*.png
+
+# Certificates and signing material
+*.pfx
+*.pfx.meta
+*.pem
+*.pem.meta
+*.key
+*.key.meta
+*.keystore
+*.keystore.meta
+
+# OS files
+.DS_Store
+Thumbs.db
